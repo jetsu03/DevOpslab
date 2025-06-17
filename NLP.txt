@@ -19,7 +19,7 @@ Learn how text data follows empirical laws and analyze word frequency distributi
 
  
 
-Module – 3 : Word Representation Using a Vector
+Module – 3 : Word Representation Using a Vector hihihi
 Concepts Covered :
 Overview of word representation techniques (e.g., one-hot encoding, TF-IDF, embeddings). Hands-on: Implement TF-IDF on a small dataset.
 
