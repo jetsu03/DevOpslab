@@ -1,0 +1,123 @@
+MLF
+MLT
+MLP
+Module – 1 : Introduction to NLP
+Concepts Covered :
+Overview of NLP, its goals, and applications. Discussion on the importance of NLP in real-world scenarios. Activity: Identify NLP applications in day-to-day life.
+
+Learning Outcomes :
+Understand the basics of NLP and its impact on various domains.
+
+ 
+
+Module – 2 : Counting and Empirical Laws
+Concepts Covered :
+Introduction to Zipf’s and Heap’s law in text data. Hands-on: Calculate word frequency and visualize empirical relationships using Python.
+
+Learning Outcomes :
+Learn how text data follows empirical laws and analyze word frequency distributions.
+
+ 
+
+Module – 3 : Word Representation Using a Vector
+Concepts Covered :
+Overview of word representation techniques (e.g., one-hot encoding, TF-IDF, embeddings). Hands-on: Implement TF-IDF on a small dataset.
+
+Learning Outcomes :
+Gain knowledge of vector-based word representation techniques and their applications.
+
+ 
+
+Module – 4 : Feature Extraction Using n-Grams
+Concepts Covered :
+Introduction to n-grams and their role in capturing contextual information. Hands-on: Generate and analyze n-gram features using Python.
+
+Learning Outcomes :
+Learn to extract features from text data using n-grams and understand their importance in NLP tasks.
+
+ 
+
+Module – 5 : Finding Word Vectors: Artificial Neural Network Approach
+Concepts Covered :
+Basics of word2vec (CBOW and skip-gram models). Hands-on: Train a word2vec model using Gensim or TensorFlow.
+
+Learning Outcomes :
+Understand and implement neural-based word vectorization methods like word2vec.
+
+ 
+
+Module – 6 : Language Generation
+Concepts Covered :
+Basics of text generation using probabilistic models. Demo: Generate text using n-gram-based methods.
+
+Learning Outcomes :
+Explore the concept of generating coherent text using probabilistic language models.
+
+Module – 1 : Probabilistic Language Models Using N-Grams
+Concepts Covered :
+Introduction to n-gram language models, smoothing techniques, and their limitations. Hands-on: Implement an n-gram-based language model in Python.
+
+Learning Outcomes :
+Understand probabilistic approaches to language modeling and their application in text prediction.
+
+ 
+
+Module – 2 : Introduction to Neural Language Models
+Concepts Covered :
+Basics of feedforward neural networks and RNNs in NLP. Comparison between probabilistic and neural models.
+
+Learning Outcomes :
+Learn the foundational concepts of neural models for language tasks.
+
+ 
+
+Module – 3 : Language Translation
+Concepts Covered :
+Introduction to sequence-to-sequence models and their application in translation.
+Learning Outcomes :
+Learn about the mechanisms of language translation using neural.
+
+ 
+
+Module – 4 : Transformers
+Concepts Covered :
+Introduction to the Transformer architecture and its significance.
+
+Learning Outcomes :
+Understand the architecture and applications of Transformer models.
+
+ 
+
+Module – 5 : Named Entity Recognition (NER)
+Concepts Covered :
+Basics of extracting named entities from text (e.g., names, dates).Hands-on: Implement NER using NLTK or a pretrained model.
+
+Learning Outcomes :
+Understand the fundamentals of entity extraction and apply them to real-world datasets. 
+
+ 
+
+Module – 6 : Spam Detection
+Concepts Covered :
+Introduction to Bayesian classification for spam detection. Hands-on: Build and evaluate a Naive Bayes spam classifier using a dataset.
+
+Learning Outcomes :
+Learn to design and implement a probabilistic text classification system for spam detection.
+
+ 
+
+Module – 7 : Introduction to Chatbots
+Concepts Covered :
+Overview of conversational AI and chatbot systems. Discussion on rule-based vs. AI-powered chatbots.
+
+Learning Outcomes :
+Understand the principles of conversational AI and basic chatbot implementation.
+
+ 
+
+Module – 8 : Discussion and Future Directions
+Concepts Covered :
+Discuss recent advancements like GPT and BERT, ethics in NLP, and potential career opportunities. Interactive Q&A session.
+
+Learning Outcomes :
+Gain insight into cutting-edge NLP advancements and future trends.
